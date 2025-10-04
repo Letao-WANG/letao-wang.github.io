@@ -36,6 +36,7 @@ I completed my Master’s studies at ENS Paris-Saclay and my Bachelor’s degree
 You can reach me at [letao.wang@centralesupelec.fr](mailto:letao.wang@centralesupelec.fr).
 
 My research interests include:
+
 - Quantum physics-informed neural networks (QPINNs)
 - Variational quantum algorithms for solving PDEs
 - Quantum optimization

@@ -6,7 +6,7 @@ title: Letao Wang # the website title (if blank, full name will be used instead)
 first_name: Letao
 middle_name:
 last_name: Wang
-contact_note: > 
+contact_note: >
   Happy to hear from you :)
 #  You can reach me at [letao.wang@centralesupelec.fr](mailto:letao.wang@centralesupelec.fr).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -644,5 +644,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-
