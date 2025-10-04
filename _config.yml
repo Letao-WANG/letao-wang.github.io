@@ -2,18 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hello world # the website title (if blank, full name will be used instead)
+title: Letao Wang # the website title (if blank, full name will be used instead)
 first_name: Letao
-middle_name: R.
+middle_name:
 last_name: Wang
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: > 
+  Happy to hear from you :)
+#  You can reach me at [letao.wang@centralesupelec.fr](mailto:letao.wang@centralesupelec.fr).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+#  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -48,10 +49,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -173,6 +174,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _posts/2020-09-28-twitter.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -642,3 +644,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+
