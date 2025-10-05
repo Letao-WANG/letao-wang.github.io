@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a first-year PhD student in Quantum Machine Learning at the [Laboratoire des signaux et systèmes (L2S)](https://l2s.centralesupelec.fr/), [CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec), [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University).
+Hello! I'm a first-year PhD student in Quantum Machine Learning at the [Laboratoire des signaux et systèmes (L2S)](https://l2s.centralesupelec.fr/), **[CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec), [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University)**.
 My doctoral speciality is Mathematical Computer Science (Informatique mathématique).
 I completed my Master’s studies at ENS Paris-Saclay and my Bachelor’s degree at Paris Cité University.
 I’m always happy to exchange ideas and collaborate, you can reach me at [letao.wang@centralesupelec.fr](mailto:letao.wang@centralesupelec.fr) :)

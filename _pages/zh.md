@@ -1,0 +1,18 @@
+---
+layout: page
+permalink: /chinese/
+title: 中文
+nav: true
+nav_order: 5
+---
+
+你好！我是王乐陶，目前在法国**巴黎萨克雷大学（Université Paris-Saclay）中央理工-高等电力学院（CentraleSupélec）**从事量子机器学习方向的博士研究。
+我的博士专业是 数学计算机科学（Informatique mathématique）。我在**巴黎萨克雷高等师范学院（ENS Paris-Saclay）** 完成硕士学业，并在 **巴黎西岱大学（Université Paris Cité）** 获得学士学位。
+我始终乐于与他人交流想法并开展合作，欢迎通过邮箱[letao.wang@centralesupelec.fr](mailto:letao.wang@centralesupelec.fr) 与我联系 :)
+
+---
+
+**我的研究兴趣包括：**
+- 物理驱动的量子神经网络（Quantum Physics-Informed Neural Networks, QPINNs）
+- 用于求解偏微分方程的变分量子算法
+- 面向金融问题的量子优化方法
