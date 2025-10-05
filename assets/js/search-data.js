@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/chinese/";
+            window.location.href = "/zh/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
