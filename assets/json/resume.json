@@ -52,37 +52,37 @@
       "endDate": "2028-10-01"
     },
     {
-      "institution": "École normale supérieure Paris-Saclay",
+      "institution": "École normale supérieure Paris-Saclay (ENS Paris-Saclay)",
       "location": "Gif-sur-Yvette, France",
       "url": "https://mpri-master.ens.fr/",
-      "area": "Theoretical Computer Science (MPRI)",
+      "area": "Theoretical Computer Science <br>MPRI (Parisian Master of Research in Computer Science)",
       "studyType": "Master student",
       "startDate": "2024-9-01",
       "endDate": "2025-9-01"
     },
     {
-      "institution": "École normale supérieure Paris-Saclay",
+      "institution": "École normale supérieure Paris-Saclay (ENS Paris-Saclay)",
       "location": "Gif-sur-Yvette, France",
       "url": "https://ens-paris-saclay.fr/formations/nos-autres-diplomes/diplome-arteq-recherche-en-technologies-quantiques",
-      "area": "Quantum Physics (ARTeQ)",
+      "area": "Quantum Physics <br>ARTeQ (Inter-institutional diploma Year of Research in Quantum Technologies)",
       "studyType": "Master student",
       "startDate": "2023-9-01",
       "endDate": "2024-9-01"
     },
     {
-      "institution": "University Paris-Saclay",
+      "institution": "Université Paris-Saclay",
       "location": "Gif-sur-Yvette, France",
       "url": "https://mpri-master.ens.fr/",
-      "area": "Theoretical Computer Science (MPRI)",
+      "area": "Theoretical Computer Science <br>MPRI (Parisian Master of Research in Computer Science)",
       "studyType": "Master student",
       "startDate": "2022-9-01",
       "endDate": "2023-9-01"
     },
     {
-      "institution": "University Paris Cité",
+      "institution": "Université Paris Cité",
       "location": "Paris, France",
       "url": "https://u-paris.fr/",
-      "area": "Computer Science",
+      "area": "Computer Science (Informatique)",
       "studyType": "Undergraduate student",
       "startDate": "2021-9-01",
       "endDate": "2022-9-01"
@@ -91,7 +91,7 @@
       "institution": "Université Le Havre Normandie (IUT Le Havre)",
       "location": "Le Havre, France",
       "url": "https://www-iut.univ-lehavre.fr/",
-      "area": "Computer Science",
+      "area": "Computer Science (Informatique)",
       "studyType": "Undergraduate student",
       "startDate": "2019-9-01",
       "endDate": "2021-9-01"
