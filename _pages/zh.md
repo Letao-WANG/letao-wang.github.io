@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /chinese/
+permalink: /zh/
 title: 中文
 nav: true
 nav_order: 5
