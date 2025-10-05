@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher in Quantum Computing
+subtitle: Researcher in Quantum Computing · Paris Region, France
 
 #<a href='https://www.centralesupelec.fr/'>CentraleSupélec</a>
 
