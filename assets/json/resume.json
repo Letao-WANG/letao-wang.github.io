@@ -23,7 +23,7 @@
       "summary": "Quantum Physics-Informed Neural Networks for Solving Financial PDEs."
     },
     {
-      "name": "LIP6, Sorbonne University",
+      "name": "LIP6, Sorbonne Université",
       "location": "Paris, France",
       "position": "Research intern",
       "url": "https://qi.lip6.fr/",
@@ -32,7 +32,7 @@
       "summary": "Subspace preserving quantum convolutional neural network architectures."
     },
     {
-      "name": "IRIF, University Paris Cité",
+      "name": "IRIF, Université Paris Cité",
       "location": "Paris, France",
       "position": "Research intern",
       "url": "https://www.irif.fr/",
@@ -43,10 +43,10 @@
   ],
   "education": [
     {
-      "institution": "University Paris-Saclay",
+      "institution": "Université Paris-Saclay",
       "location": "Gif-sur-Yvette, France",
       "url": "https://www.universite-paris-saclay.fr/",
-      "area": "Mathematical Computer Science",
+      "area": "Mathematical Computer Science (Informatique Mathématique)",
       "studyType": "PhD student",
       "startDate": "2025-10-01",
       "endDate": "2028-10-01"
