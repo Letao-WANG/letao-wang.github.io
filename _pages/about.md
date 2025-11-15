@@ -36,5 +36,5 @@ I’m always happy to exchange ideas and collaborate, you can reach me by the em
 
 My research interests include:
 - Quantum physics-informed neural networks (QPINNs)
-- Variational quantum algorithms for solving PDEs
-- Quantum optimization for financial problems
+- Variational quantum algorithms for solving financial PDEs
+- Financial Mathematics
