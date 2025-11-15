@@ -30,8 +30,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello! I'm a first-year PhD student in Quantum Machine Learning at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/en/), [CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec), [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University).
-My doctoral speciality is Mathematical Computer Science (Informatique mathématique).
-I completed my Master’s studies at ENS Paris-Saclay and my Bachelor’s degree at Paris Cité University.
+My doctoral speciality is Mathematical Computer Science.
+
+I completed my Master’s studies in Theoretical Computer Science and Quantum Physics at École Normale Supérieure Paris-Saclay, and my Bachelor’s degree in Computer Science at Université Paris Cité.
 I’m always happy to exchange ideas and collaborate, you can reach me by the email button below :)
 
 My research interests include:
