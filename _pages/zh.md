@@ -5,11 +5,11 @@ title: 中文
 nav: true
 nav_order: 5
 
-profile:
-  align: right
-  image: LetaoWang_photo.jpg       # 这里换成你的图片文件名
-  image_circular: false
-  more_info: "<p style='font-size:0.75em;'>2022年拍摄于法国巴黎荣军院.</p>"
+#profile:
+#  align: right
+#  image: LetaoWang_photo.jpg       # 这里换成你的图片文件名
+#  image_circular: false
+#  more_info: "<p style='font-size:0.75em;'>2022年拍摄于法国巴黎荣军院.</p>"
 ---
 
 你好！我是王乐陶，目前在法国巴黎萨克雷大学（Université Paris-Saclay）中央理工-高等电力学院（CentraleSupélec）的L2S实验室从事量子机器学习方向的博士研究，我的正式博士专业是 数学计算机科学（Informatique mathématique）。
