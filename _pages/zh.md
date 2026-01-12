@@ -5,10 +5,10 @@ title: 中文
 nav: true
 nav_order: 5
 
-#profile:
-#  align: right
-#  image: LetaoWang_photo.jpg       # 这里换成你的图片文件名
-#  image_circular: false
+profile:
+  align: right
+  image: portrait.png
+  image_circular: false # crops the image to make it circular
 #  more_info: "<p style='font-size:0.75em;'>2022年拍摄于法国巴黎荣军院.</p>"
 ---
 

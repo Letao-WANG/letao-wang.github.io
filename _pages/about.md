@@ -6,10 +6,10 @@ subtitle: Researcher in Quantum Computing · Paris Region, France
 
 #<a href='https://www.centralesupelec.fr/'>CentraleSupélec</a>
 
-#profile:
-#  align: right
-#  image: LetaoWang_photo.jpg
-#  image_circular: false # crops the image to make it circular
+profile:
+  align: right
+  image: portrait.png
+  image_circular: false # crops the image to make it circular
 #  more_info: "<p style='font-size:0.75em;'>Photographed at Les Invalides, Paris.</p>"
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
