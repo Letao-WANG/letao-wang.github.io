@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work *Fourier Symmetrization for Geometric Quantum Machine Learning* was accepted as a poster presentation at Quantum Techniques in Machine Learning (QTML) 2026.
+**QTML2026** My work *Fourier Symmetrization for Geometric Quantum Machine Learning* was accepted as a poster presentation at Quantum Techniques in Machine Learning (QTML) 2026.
