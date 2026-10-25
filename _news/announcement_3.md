@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**QMI** My work *Learning PDEs for Portfolio Optimization with Quantum Physics-Informed Neural Networks* has been accepted for publication in the journal *Quantum Machine Intelligence*!
+My work *Learning PDEs for Portfolio Optimization with Quantum Physics-Informed Neural Networks* has been accepted for publication in the journal *Quantum Machine Intelligence* !
