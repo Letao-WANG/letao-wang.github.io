@@ -10,7 +10,7 @@ profile:
   align: right
   image: Portrait_Marseille.jpg
   image_circular: false # crops the image to make it circular
-  more_info: "<p style='font-size:0.75em;'>Portrait taken by Zhuowei Yao in Marseille, France</p>"
+  more_info: "<p style='font-size:0.7em;'>Portrait taken by Zhuowei Yao in Marseille, France</p>"
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,7 +29,7 @@ announcements:
 Hello! I'm Letao Wang (王乐陶), a PhD student in Quantum Machine Learning at the **[Laboratory of Signals and Systems](https://l2s.centralesupelec.fr/en/), [CentraleSupélec](https://www.centralesupelec.fr), [Paris-Saclay University](https://www.universite-paris-saclay.fr)**.
 My doctoral speciality is Mathematical Computer Science.
 
-I completed my Master’s studies in Theoretical Computer Science and Quantum Physics at École Normale Supérieure Paris-Saclay, and my Bachelor’s degree in Computer Science at Université Paris Cité.
+I completed my Master’s studies in Theoretical Computer Science and Quantum Physics at École Normale Supérieure Paris-Saclay, Paris-Saclay University, and my Bachelor’s degree in Computer Science at Université Paris Cité.
 I’m always happy to exchange ideas and collaborate, you can reach me by the email button below :)
 
 My research interests include:
