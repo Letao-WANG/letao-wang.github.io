@@ -7,9 +7,9 @@ nav_order: 5
 
 profile:
   align: right
-  image: portrait.png
+  image: Portrait_Marseille.jpg
   image_circular: false # crops the image to make it circular
-#  more_info: "<p style='font-size:0.75em;'>2022年拍摄于法国巴黎荣军院.</p>"
+  more_info: "<p style='font-size:0.7em;'>肖像照由姚卓為摄于法国马赛守护圣母圣殿 </p>"
 ---
 
 你好！我是王乐陶，目前在法国巴黎萨克雷大学（Université Paris-Saclay）中央理工-高等电力学院（CentraleSupélec）的L2S实验室从事量子机器学习方向的博士研究，我的正式博士专业是 数学计算机科学（Informatique mathématique）。
